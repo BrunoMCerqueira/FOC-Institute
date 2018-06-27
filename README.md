@@ -1,10 +1,10 @@
 # FOC-Institute
 Projects - Associate degree - FOC Institute
 
-Tareas del módulo de Desarrollo de Aplicaciones Web (DAW)
+Trabalhos do tecnólogo de Desenvolvimento de Aplicações Web (DAW)
 
-    Bases de datos
-    Entornos de Desarrollo
-    Lenguajes de Marcas
-    Programación
-    Sistemas Informáticos
+    Base de dados - Oracle (Consultas, PL/SQL, etc).
+    Ambientes de desenvolvimento integrado e Diagramas UML.
+    Linguagens de marcação - XML, DTD, XML-Schema, XSLT.
+    Programação - Java.
+    Sistemas Informáticos - Linux, Windows.
