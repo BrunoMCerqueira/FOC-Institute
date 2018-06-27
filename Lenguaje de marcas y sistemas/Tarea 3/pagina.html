@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Vegano world</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
+  </head>
+  <body>
+    <header class="inicio-nav">
+      <div class="icon">
+        <img class="logo" src="http://i66.tinypic.com/j90evo.png" border="0" alt="Logo vegano">
+      </div>
+      <nav class="menu-inicio">
+        <a href=""><strong>Inicio</strong></a>
+        <a href="articulos.html" target="_blank">Artículos</a>
+        <a href="contacto.html" target="_blank">Contacto</a>
+      </nav>
+    </header>
+
+
+    <div class="fondo" style="background-image: linear-gradient(45deg, rgba(15, 200, 240, 0.2),
+    rgba(30, 128, 153, 0.1), rgba(30, 159, 194, 0.8)),
+    url('https://static.pexels.com/photos/579217/pexels-photo-579217.jpeg');">
+    <div class="container">
+      <h1>Veganos en el mundo</h1>
+    </div>
+    </div>
+    <div class="articulos">
+
+      <a href="articulos.html" target="_blank">
+        <h2>Artículos principales</h2>
+      </a>
+      <div class="noticias">
+
+      <div class="card">
+        <h3>El animal más rápido de la tierra está en peligro de extinción.</h3>
+        <p>03 febrero 2018</p>
+      </div>
+      <div class="card">
+        <h3>La realidad no tan dulce de la miel.</h3>
+        <p>03 febrero 2018</p>
+      </div>
+      <div class="card">
+        <h3>China prohibirá el comercio de marfil.</h3>
+        <p>03 febrero 2018</p>
+      </div>
+      </div>
+    </div>
+    <a href="contato.html" class="contacto" target="_blank">
+      <h2>Contato</h2>
+    </a>
+    <div class="formulario-container">
+      <form id="formulario" action="mailto:tarea2@foc.es method="get">
+        <label id="lnombre" class="formpart">Nombre</label>
+        <input type="text" class="formpart" required="required" id="nombre" placeholder="Ej: Jose" />
+        <label id="lapellido" class="formpart">Apellidos</label>
+        <input type="text" class="formpart" required="required" id="apellidos" placeholder="Ej: García Pérez" />
+        <label id="lemail" class="formpart">Email</label>
+        <input type="email" class="formpart" required="required" placeholder="Ej: jose@mail.com" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" />
+        <label id="lmensaje" class="formpart">Mensaje</label>
+        <textarea name="mensaje" class="formpart" rows="8" cols="45"></textarea>
+        <input type="submit" value="Enviar"/>
+      </form>
+
+    </div>
+    </div>
+    <footer>
+      <p>
+        Creado por: <strong>Bruno Marenco Cerqueira</strong>
+      </p>
+    </footer>
+  </body>
+</html>

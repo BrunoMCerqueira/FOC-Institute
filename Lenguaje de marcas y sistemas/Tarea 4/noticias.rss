@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+	<channel>
+    <title>Web de baloncesto</title>
+    <link>https://www.nbamaniacs.com/</link>
+    <description>Página web con la mejor actualidad del mundo del baloncesto.</description>
+		
+		<item>
+			<title>Problemas en Cleveland, Thomas y Love.</title>
+			<link>https://www.nbamaniacs.com/noticias/isaiah-thomas-niega-mala-sangre-love/</link>
+      <description>Isaiah Thomas niega cualquier mala relación con Kevin Love, después de que este abandonara un partido antes de su término, algo que según medios especializados, había sido visto con malos ojos dentro del vestuario.</description>
+      <pubDate>28 enero 2018</pubDate>
+      <enclosure url="https://i2.wp.com/www.nbamaniacs.com/wp-content/uploads/2018/01/thomas-debut.jpg" type="image/jpg"/>
+		</item>
+		<item>
+			<title>Mike Conley tendrá que operarse y se perderá el resto de la temporada.</title>
+			<link>https://www.nbamaniacs.com/noticias/mike-conley-no-volvera-hasta-la-proxima-temporada/</link>
+      <description>Mike Conley continua con su mala suerte, depués de disputados sólo 12 partidos esta temporada, se confirma que se perderá el resto de la temporada debido a la operación a la que se va a someter para resolver sus problemas de tobillo.</description>
+      <pubDate>27 enero 2018</pubDate>
+      <enclosure url="https://i2.wp.com/www.nbamaniacs.com/wp-content/uploads/2017/11/Mike-Conley-2017-18.jpg" type="image/jpg"/>
+		</item>
+		<item>
+			<title>Los LA no forzarán a vuelta de Ball</title>
+			<link>https://www.nbamaniacs.com/noticias/los-lakers-no-apresuraran-la-vuelta-de-lonzo-ball/</link>
+      <description>Los Angeles Lakers no apresurarán la vuelta de Lonzo Ball, después de dos semanas lesionado, Lonzo sigue avanzando poco a poco en su recuperación del esguince de ligamento de su rodilla.</description>
+      <pubDate>28 enero 2018</pubDate>
+      <enclosure url="https://i1.wp.com/www.nbamaniacs.com/wp-content/uploads/2017/11/Lonzo-Ball-1.jpg" type="image/jpg"/>
+		</item>
+	</channel>
+</rss>

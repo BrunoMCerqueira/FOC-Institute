@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ordenadores>
+<ordenador>
+  <nombre>
+    PC Sobremesa - Microstar PCC453, I7-6700 8 GB RAM, GTX1060, Free DOS
+  </nombre>
+
+  <Caracteristicas>
+    <RAM>
+      8GB
+    </RAM>
+    <Sistemaoperativo>
+      Windows
+    </Sistemaoperativo>
+    <Almacenamiento>
+      1000GB
+    </Almacenamiento>
+    <Microprocesador>
+       i7-6700
+    </Microprocesador>
+  </Caracteristicas>
+</ordenador>
+<ordenador>
+  <nombre>
+    PC Sobremesa - Acer IMDS2984, Celeron J3060, 4GB RAM, Memoria de 1TB, Negro
+  </nombre>
+
+  <Caracteristicas>
+    <RAM>
+      4GB
+    </RAM>
+    <Sistemaoperativo>
+      Linux
+    </Sistemaoperativo>
+    <Almacenamiento>
+      100GB
+    </Almacenamiento>
+    <Microprocesador>
+      Intel Celeron
+    </Microprocesador>
+  </Caracteristicas>
+</ordenador>
+</ordenadores>

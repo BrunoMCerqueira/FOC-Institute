@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Contacto NBA</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
+  </head>
+  <body>
+    <header>
+      <h1><span class="tono-rojo">NBA</span>sindescanso</h1>
+      <p>Análisis, noticias y mucho más de la mejor liga de baloncesto del mundo</p>
+    </header>
+    <nav>
+      <a href="pagina.html" target="_blank">Inicio</a>
+      <a href="articulos.html" target="_blank">Artículos</a>
+      <a href=""><strong>Contacto</strong></a>
+    </nav>
+    <h2>Entre en contacto</h2>
+    <div class="contacto">
+
+      <form id="formulario" action="mailto:pepe@foc.es method="get">
+        <label id="lnombre" class="formpart">Nombre</label>
+        <input type="text" class="formpart" required="required" id="nombre" placeholder="Ej: Jose" />
+        <label id="lapellido" class="formpart">Apellidos</label>
+        <input type="text" class="formpart" required="required" id="apellidos" placeholder="Ej: García Pérez" />
+        <label id="lemail" class="formpart">Email</label>
+        <input type="email" class="formpart" required="required" placeholder="Ej: jose@mail.com" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" />
+        <label id="lmensaje" class="formpart">Mensaje</label>
+        <textarea name="mensaje" class="formpart" rows="8" cols="45"></textarea>
+        <input type="submit" value="Enviar"/>
+      </form>
+
+    </div>
+    <footer>
+      <p>
+        Creado por: <strong>Bruno Marenco Cerqueira</strong>
+      </p>
+    </footer>
+  </body>
+</html>

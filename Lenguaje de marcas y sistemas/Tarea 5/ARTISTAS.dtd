@@ -1,0 +1,8 @@
+<!ELEMENT tienda (disco+)>
+<!ELEMENT disco (nombre_del_disco, (artista|grupo), año, discográfica)>
+<!ELEMENT nombre_del_disco (#PCDATA)>
+<!ELEMENT artista (#PCDATA)>
+<!ELEMENT grupo (#PCDATA)>
+<!ELEMENT año (#PCDATA)>
+<!ELEMENT discográfica (#PCDATA)>
+<!ATTLIST disco formato (LP|CD|K7|MP3) #REQUIRED>

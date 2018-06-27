@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>NBA</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
+  </head>
+  <body>
+    <header>
+      <h1><span class="tono-rojo">NBA</span>sindescanso</h1>
+      <p>Análisis, noticias y mucho más de la mejor liga de baloncesto del mundo</p>
+    </header>
+    <nav>
+      <a href=""><strong>Inicio</strong></a>
+      <a href="articulos.html" target="_blank">Artículos</a>
+      <a href="contacto.html" target="_blank">Contacto</a>
+    </nav>
+    <div class="articulos">
+      <h2>Artículos principales</h2>
+      <div class="card">
+        <h3>Lonzo Ball, el más joven de la historia en lograr un triple-doble</h3>
+        <p>11 noviembre 2017</p>
+      </div>
+      <div class="card">
+        <h3>Porzingis: “La diferencia es que tratamos de defender durante los 48 minutos”</h3>
+        <p>11 noviembre 2017</p>
+      </div>
+      <div class="card">
+        <h3>Kyrie Irving jugará con una máscara protectora</h3>
+        <p>11 noviembre 2017</p>
+      </div>
+    </div>
+    <div class="contacto">
+      <form id="formulario" action="mailto:pepe@foc.es method="get">
+        <label id="lnombre" class="formpart">Nombre</label>
+        <input type="text" class="formpart" required="required" id="nombre" placeholder="Ej: Jose" />
+        <label id="lapellido" class="formpart">Apellidos</label>
+        <input type="text" class="formpart" required="required" id="apellidos" placeholder="Ej: García Pérez" />
+        <label id="lemail" class="formpart">Email</label>
+        <input type="email" class="formpart" required="required" placeholder="Ej: jose@mail.com" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" />
+        <label id="lmensaje" class="formpart">Mensaje</label>
+        <textarea name="mensaje" class="formpart" rows="8" cols="45"></textarea>
+        <input type="submit" value="Enviar"/>
+      </form>
+
+    </div>
+    <footer>
+      <p>
+        Creado por: <strong>Bruno Marenco Cerqueira</strong>
+      </p>
+    </footer>
+  </body>
+</html>

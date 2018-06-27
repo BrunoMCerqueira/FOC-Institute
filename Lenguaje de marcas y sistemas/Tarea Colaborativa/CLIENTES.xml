@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CLIENTES.xsd">
+  <cliente nif="91820114f">
+    <nombre>Antonio Torres Yanes</nombre>
+    <tipo>persona física</tipo>
+    <años_de_relacion>10</años_de_relacion>
+    <articulos_habituales>
+      <articulo_id>561<pedido_medio>14</pedido_medio></articulo_id>
+      <articulo_id>43<pedido_medio>10</pedido_medio></articulo_id>
+    </articulos_habituales>
+  </cliente>
+  <cliente nif="5220194g">
+    <nombre>Clinica Dental Sol</nombre>
+    <tipo>persona jurídica</tipo>
+    <años_de_relacion>4</años_de_relacion>
+    <articulos_habituales>
+      <articulo_id>415<pedido_medio>17</pedido_medio></articulo_id>
+    </articulos_habituales>
+  </cliente>
+</clientes>
+

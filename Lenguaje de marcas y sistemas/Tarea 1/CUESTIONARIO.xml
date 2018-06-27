@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cuestionario>
+  <pregunta>
+    <descripcion>
+      Es una civilización antigua
+    </descripcion>
+    <respuestas>
+      <correcta>
+        Grecia
+      </correcta>
+      <incorrecta>
+        Mesoamerica
+      </incorrecta>
+      <incorrecta>
+        Aridoamerica
+      </incorrecta>
+      <incorrecta>
+        Mayas
+      </incorrecta>
+      <incorrecta>
+        Aztecas
+      </incorrecta>
+    </respuestas>
+  </pregunta>
+  <pregunta>
+    <descripcion>
+      ¿La aportación más grande que ha hecho Roma es?
+    </descripcion>
+    <respuestas>
+      <correcta>
+        Derecho
+      </correcta>
+      <incorrecta>
+        Religión
+      </incorrecta>
+      <incorrecta>
+        Democracia
+      </incorrecta>
+      <incorrecta>
+        Valores
+      </incorrecta>
+      <incorrecta>
+        Filosofía
+      </incorrecta>
+    </respuestas>
+  </pregunta>
+
+  <pregunta>
+    <descripcion>
+      Son etapas de la historia
+    </descripcion>
+    <respuestas>
+      <correcta>
+        antigua, media, contemporánea
+      </correcta>
+      <incorrecta>
+        antigua, media, oriental
+      </incorrecta>
+      <incorrecta>
+        antigua, media, occidental
+      </incorrecta>
+      <incorrecta>
+        antigua, contemporánea
+      </incorrecta>
+      <incorrecta>
+        todas las anteriores
+      </incorrecta>
+    </respuestas>
+  </pregunta>
+
+  <pregunta>
+    <descripcion>
+      Famoso por su frase "el hombre es bueno por naturaleza, la sociedad lo corrompe y lo destruye", estamos hablando de
+    </descripcion>
+    <respuestas>
+      <correcta>
+        Rosseau
+      </correcta>
+      <incorrecta>
+        Napoleon
+      </incorrecta>
+      <incorrecta>
+        Gomez Farias
+      </incorrecta>
+      <incorrecta>
+        Montesquieu
+      </incorrecta>
+      <incorrecta>
+        Ninguna de las anteriores
+      </incorrecta>
+    </respuestas>
+  </pregunta>
+
+  <pregunta>
+    <descripcion>
+      En la Nueva España, como se les llamaba a los blancos nacidos en América
+    </descripcion>
+    <respuestas>
+      <correcta>
+        Criollos
+      </correcta>
+      <incorrecta>
+        Peninsulares
+      </incorrecta>
+      <incorrecta>
+        Blancos
+      </incorrecta>
+      <incorrecta>
+        Españoles
+      </incorrecta>
+      <incorrecta>
+        Castas
+      </incorrecta>
+    </respuestas>
+  </pregunta>
+
+  <pregunta>
+    <descripcion>
+      ¿Qué país fue el primero en independizarse de España?
+    </descripcion>
+    <respuestas>
+      <correcta>
+        Argentina
+      </correcta>
+      <incorrecta>
+        México
+      </incorrecta>
+      <incorrecta>
+        Haití
+      </incorrecta>
+      <incorrecta>
+        EUA
+      </incorrecta>
+      <incorrecta>
+        Brasil
+      </incorrecta>
+    </respuestas>
+  </pregunta>
+
+  <pregunta>
+    <descripcion>
+      Son dos déspotas ilustrados
+    </descripcion>
+    <respuestas>
+      <correcta>
+        Federico II de Prusia y Catalina de Rusia
+      </correcta>
+      <incorrecta>
+        Federico II de Prusia
+      </incorrecta>
+      <incorrecta>
+        Bush y Churchill
+      </incorrecta>
+      <incorrecta>
+        Aristóteles
+      </incorrecta>
+      <incorrecta>
+        Todos ya que despota significa sabio
+      </incorrecta>
+    </respuestas>
+  </pregunta>
+
+  <pregunta>
+    <descripcion>
+      Fecha en que EUA se independiza
+    </descripcion>
+    <respuestas>
+      <correcta>
+        1776
+      </correcta>
+      <incorrecta>
+        1798
+      </incorrecta>
+      <incorrecta>
+        1489
+      </incorrecta>
+      <incorrecta>
+        1259
+      </incorrecta>
+      <incorrecta>
+        1798
+      </incorrecta>
+    </respuestas>
+  </pregunta>
+
+  <pregunta>
+    <descripcion>
+      Mientras estaba en la cárcel Hitler escribió esto, en contra de los judíos y mencionaba una raza Aria, cual es el nombre de dicha obra
+    </descripcion>
+    <respuestas>
+      <correcta>
+        Mi lucha
+      </correcta>
+      <incorrecta>
+        Mi verdad
+      </incorrecta>
+      <incorrecta>
+        Mi razón
+      </incorrecta>
+      <incorrecta>
+        Muerte al Judío
+      </incorrecta>
+      <incorrecta>
+        Mi bienestar
+      </incorrecta>
+    </respuestas>
+  </pregunta>
+
+  <pregunta>
+    <descripcion>
+      Año de la primera y segunda guerra mundial respectivamente
+    </descripcion>
+    <respuestas>
+      <correcta>
+        1914-1939
+      </correcta>
+      <incorrecta>
+        1918-1945
+      </incorrecta>
+      <incorrecta>
+        1985-1995
+      </incorrecta>
+      <incorrecta>
+        1914-1918
+      </incorrecta>
+      <incorrecta>
+        1939-1945
+      </incorrecta>
+    </respuestas>
+  </pregunta>
+</cuestionario>
+
+

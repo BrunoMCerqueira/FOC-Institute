@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="clientes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="cliente" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cliente" >
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nombre" type="xs:string"/>
+        <xs:element name="tipo">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+              <xs:enumeration value="persona física"/>
+              <xs:enumeration value="persona jurídica"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="años_de_relacion" type="xs:positiveInteger"/>
+        <xs:element name="articulos_habituales">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="articulo_id">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="pedido_medio" type="xs:integer"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element> 
+      </xs:sequence>
+      <xs:attribute name="nif" type="xs:string"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
